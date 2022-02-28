@@ -1,0 +1,9 @@
+{
+  "name": "@architect/arc-macro-cloudfront",
+  "version": "1.0.0",
+  "description": "Architect serverless framework plugin that creates a CloudFront distribution for your S3 bucket",
+  "main": "index.js",
+  "repository": "git@github.com:Lugana707/arc-plugin-cloudfront.git",
+  "author": "Lugana707 <sam.m.albon@outlook.com>",
+  "license": "Apache-2.0"
+}
